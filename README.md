@@ -48,3 +48,11 @@ reports verification results, for example:
 The CAPTCHA can remain optional anti-bot protection around those endpoints. It
 must not be described as a Bitcoin security mechanism or a workaround for the
 Bitcoin network.
+
+## Donations
+
+If you find this project useful, consider supporting it with Bitcoin:
+
+```
+bc1pc5tdw0gntazqw6clxq8gk934xu7kvfsdhyj0jwn3uuve57e60cqqlh749l
+```
