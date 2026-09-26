@@ -8,6 +8,12 @@ challenge; it does not prove Bitcoin ownership or confirm a transaction.
 ## Run locally
 
 ```text
+git clone https://github.com/hellemseric-afk/BQSL.git
+###download the folder and extract with git installed
+cd BQSL
+###change to local directory 
+```
+```text
 python -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python app.py
